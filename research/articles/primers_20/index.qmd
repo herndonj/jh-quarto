@@ -1,0 +1,75 @@
+---
+title: "Extending the Research Data Toolkit: Data Curation Primers"
+date: 2020-08-19
+author:
+
+  - name: Cynthia Hudson-Vitale
+    url: 
+    orcid: 0000-0001-5581-5678
+    affiliation: Pennsylvania State University
+  - name: Hannah Hadley
+    url: 
+    orcid: 
+    affiliation: Pennsylvania State University
+  - name: Jennifer Moore
+    url: 
+    orcid: 0000-0001-6628-6820
+    affiliation: Washington University in St. Louis
+  - name: Lisa Johnston
+    url: 
+    orcid: 0000-0001-6908-9240
+    affiliation: University of Wisconsin
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University of Michigan
+  - name: Mara Blake
+    url: 
+    orcid: 
+    affiliation: Johns Hopkins University
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+categories: 
+  - Data curation
+  - Data Curation Network
+  - Curation primers
+pub-info:
+  reference: >-
+    Cynthia Hudson-Vitale, Hannah Hadley, Jennifer Moore, Lisa Johnston, Wendy Kozlowski, Jake Carlson, Mara Blake, and <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, "Extending the Research Data Toolkit: Data Curation Primers," <em>International Journal of Digital Curation</em> 15, no. 1 (2020): 22, doi: <a href="https://doi.org/10.2218/ijdc.v15i1.745"><code>10.2218/ijdc.v15i1.745</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.2218/ijdc.v15i1.745
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v15i1.745
+      icon: ai ai-zotero
+doi: 10.2218/ijdc.v15i1.745
+---
+
+## Abstract
+
+While many institutions and organizations have expertise in certain domains and areas, oftentimes the heterogeneous data types received for deposit extend beyond this expertise. Additionally, evolving research methods and new, cutting-edge technology used in research often result in unfamiliar and niche data formats received for deposit. Knowing how to 'get-started' in curating these file types and formats can be a particular challenge. To address this need, the data curation community have been developing a new set of tools - data curation primers. These primers are evolving documents that detail a specific subject, disciplinary area or curation task, and that can be used as a reference or jump-start to curating research data. This paper will provide background on the data curation primers and their content detail the process of their development, highlight the data curation primers published to date, emphasize how curators can incorporate these resources into workflows, and show curators how they can get involved and share their own expertise.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v15i1.745">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@article{herndon2020extending,
+  title={Extending the Research Data Toolkit: Data Curation Primers},
+  author={Hudson-Vitale, Cynthia and Hadley, Hannah and Moore, Jennifer and Johnston, Lisa and Kozlowski, Wendy and Carlson, Jake and Blake, Mara and Herndon, Joel},
+  journal={International Journal of Digital Curation},
+  volume={15},
+  number={1},
+  pages={22},
+  year={2020},
+  doi={10.2218/ijdc.v15i1.745}
+}
+```

@@ -1,0 +1,9 @@
+---
+title: "Joel Herndon"
+about:
+  template: solana
+  image: img/joel_herndon.png
+  image-shape: rounded
+---
+
+I'm the Director of the [Center for Data and Visualization Sciences](https://library.duke.edu/data) in Duke University Libraries. The center provides consultations, training, and project support to a variety of data science, data visualization, gis, and data curation communities. My [recent research](https://open-data.science/) focuses on the nature of research data management services and costs in higher education institutions. Other [recent work](https://www.facetpublishing.co.uk/page/detail/data-science-in-the-library/?k=9781783304592) considers how universities and research libraries are responding to a growing demand for data science services and training.

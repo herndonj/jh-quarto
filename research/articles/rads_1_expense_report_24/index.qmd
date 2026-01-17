@@ -1,0 +1,77 @@
+---
+title: "Making Research Data Publicly Accessible: Estimates of Institutional & Researcher Expenses"
+date: 2024-02-25
+author:
+  - name: Alicia Hofelich Mohr
+    url: 
+    orcid: 0000-0002-7644-4105
+    affiliation: University of Minnesota
+  - name: Jake R. Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Lizhao Ge
+    url: 
+    orcid: 
+    affiliation: George Washington University
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Jennifer Moore
+    url: 
+    orcid: 0000-0001-6628-6820
+    affiliation: Washington University in St. Louis
+  - name: Jonathan Peters
+    url: 
+    orcid: 0000-0002-0853-5814
+    affiliation: Virginia Tech
+  - name: Shawna Taylor
+    url: 
+    orcid: 0000-0002-9842-7867
+    affiliation: Johns Hopkins University
+  - name: Cynthia Hudson-Vitale
+    url: 
+    orcid: 0000-0001-5581-5678
+    affiliation: Johns Hopkins University
+categories: 
+  - Public access
+  - Research data
+  - Data costs
+pub-info:
+  reference: >-
+    Alicia Hofelich Mohr, Jake R. Carlson, Lizhao Ge, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Wendy Kozlowski, Jennifer Moore, Jonathan Peters, Shawna Taylor, and Cynthia Hudson-Vitale, "Making Research Data Publicly Accessible: Estimates of Institutional & Researcher Expenses," Association of Research Libraries (2024), doi: <a href="https://doi.org/10.29242/report.radsexpense2024"><code>10.29242/report.radsexpense2024</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.29242/report.radsexpense2024
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.29242/report.radsexpense2024
+      icon: ai ai-zotero
+doi: 10.29242/report.radsexpense2024
+---
+
+## Abstract
+
+Academic institutions have made significant investments to support public access to research data requirements, yet little to no data about these services, infrastructure, and costs currently exist or are widely shared. For public access to research data to be optimized, funding agencies, institutions, and organizations must better understand the investments made by institutions and individual researchers toward meeting these requirements.
+
+This mixed-methods study was funded by the US National Science Foundation (grant #2135874). The Association of Research Libraries (ARL) and six research-intensive academic institutions—Cornell University, Duke University, University of Michigan, University of Minnesota, Virginia Tech, and Washington University in St. Louis—used surveys and interviews to provide an initial examination of institutional expenses for public access to research data. Due to the breadth and heterogeneity of research data and funding, we scoped this work to three US federal funding agencies (Department of Energy, National Institutes of Health, and National Science Foundation) and five disciplinary areas (biomedical sciences, environmental science, materials science, physics, and psychology).
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.29242/report.radsexpense2024">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@report{mohr2024making,
+  title={Making Research Data Publicly Accessible: Estimates of Institutional \& Researcher Expenses},
+  author={Mohr, Alicia Hofelich and Carlson, Jake R. and Ge, Lizhao and Herndon, Joel and Kozlowski, Wendy and Moore, Jennifer and Peters, Jonathan and Taylor, Shawna and Hudson-Vitale, Cynthia},
+  year={2024},
+  institution={Association of Research Libraries},
+  doi={10.29242/report.radsexpense2024}
+}
+```

@@ -1,0 +1,103 @@
+---
+title: "The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration"
+date: 2023-06-01
+author:
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Mikala Narlock
+    url: 
+    orcid: 0000-0002-2730-7542
+    affiliation: Indiana University
+  - name: Mara Blake
+    url: 
+    orcid: 0000-0002-2730-7542
+    affiliation: North Carolina State University
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Heidi Imker
+    url: 
+    orcid: 0000-0003-4748-7453
+    affiliation: University of Illinois Urbana-Champaign
+  - name: Lisa Johnston
+    url: 
+    orcid: 0000-0001-6908-9240
+    affiliation: University of Wisconsin
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Cindy Xuying Xin
+    url: 
+    orcid: 
+    affiliation: The Pennsylvania State University
+  - name: Sophia Lafferty-Hess
+    url: 
+    orcid: 0000-0002-8343-3279
+    affiliation: Duke University
+  - name: Hoa Luong
+    url: 
+    orcid: 0000-0001-6758-5419
+    affiliation: University of Illinois Urbana-Champaign
+  - name: Wanda Marsolek
+    url: 
+    orcid: 0000-0002-1771-3969
+    affiliation: University of Minnesota
+  - name: Jennifer Moore
+    url: 
+    orcid: 0000-0001-6628-6820
+    affiliation: Washington University in St. Louis
+  - name: Dorris Scott
+    url: 
+    orcid: 0000-0002-3884-7069
+    affiliation: Washington University in St. Louis
+  - name: Cynthia Hudson Vitale
+    url: 
+    orcid: 0000-0001-5581-5678
+    affiliation: Johns Hopkins University
+  - name: Briana Ezray Wham
+    url: 
+    orcid: 0000-0002-9240-8606
+    affiliation: The Pennsylvania State University
+  - name: Sarah Wright
+    url: 
+    orcid: 0000-0002-1502-131X
+    affiliation: Cornell University
+categories: 
+  - Data curation
+  - Collaboration
+  - Data Curation Network
+pub-info:
+  reference: >-
+    Jake Carlson, Mikala Narlock, Mara Blake, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Heidi Imker, Lisa Johnston, Wendy Kozlowski, Cindy Xuying Xin, Sophia Lafferty-Hess, Hoa Luong, Wanda Marsolek, Jennifer Moore, Dorris Scott, Cynthia Hudson Vitale, Briana Ezray Wham, and Sarah Wright, "The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration," University of Michigan Press (2023), doi: <a href="https://doi.org/10.3998/mpub.12782791"><code>10.3998/mpub.12782791</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.3998/mpub.12782791
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.3998/mpub.12782791
+      icon: ai ai-zotero
+doi: 10.3998/mpub.12782791
+---
+
+## Abstract
+
+The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration captures the results of a project retrospective meeting and describes the necessary components of the DCN's sustained collaboration in the hopes that the insights will be of use to other collaborative efforts. In particular, the authors describe the successes of the community and challenges of launching a cross-institutional network.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.3998/mpub.12782791">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@report{carlson2023art,
+  title={The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration},
+  author={Carlson, Jake and Narlock, Mikala and Blake, Mara and Herndon, Joel and Imker, Heidi and Johnston, Lisa and Kozlowski, Wendy and Xin, Cindy Xuying and Lafferty-Hess, Sophia and Luong, Hoa and Marsolek, Wanda and Moore, Jennifer and Scott, Dorris and Hudson Vitale, Cynthia and Wham, Briana Ezray and Wright, Sarah},
+  year={2023},
+  publisher={University of Michigan Press},
+  doi={10.3998/mpub.12782791}
+}
+```

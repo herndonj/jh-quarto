@@ -1,0 +1,44 @@
+---
+title: "On the Edge: Balancing Space and Services in a Digital Scholarship Program"
+date: 2022-09-22
+author:
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Liz Milewicz
+    url: 
+    orcid: 
+    affiliation: Duke University
+  - name: Brittany Wofford
+    url: 
+    orcid: 0009-0006-9971-8275
+    affiliation: Duke University
+categories: 
+  - Digital scholarship
+  - Library spaces
+  - Research services
+pub-info:
+  reference: >-
+    <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Liz Milewicz, and Brittany Wofford, "On the Edge: Balancing Space and Services in a Digital Scholarship Program," in <em>Designing Libraries for the 21st Century</em>, ed. H. Thomas Hickerson, Joan Lippincott, and Leonora Crema (Association of College and Research Libraries, 2022)
+  links:
+    - name: PDF
+      url: https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838936726_OA.pdf
+      icon: fa-solid fa-file-pdf 
+---
+
+## Abstract
+
+Duke University Libraries' The Edge: The Ruppert Commons for Research + Technology + Collaboration was conceived as a space to support interdisciplinary, data-driven, and digitally reliant team-based research. This chapter considers what lessons pertain to the development of library spaces and programs in support of 21st-century research. As a space renovated in order to better serve research needs at Duke University and simultaneously articulate and promote the Libraries' digital research services, The Edge offers a case study in flexibility -- how to create space that can accommodate a range of uses and also evolve, strategically and responsively, to other campus programs and spaces and to researcher needs -- and points to the continued importance of understanding and negotiating the role of innovative spaces and programs within established communities and cultures, practices and expectations.
+
+## Citation
+```bibtex
+@incollection{herndon2022edge,
+  title={On the Edge: Balancing Space and Services in a Digital Scholarship Program},
+  author={Herndon, Joel and Milewicz, Liz and Wofford, Brittany},
+  booktitle={Designing Libraries for the 21st Century},
+  editor={Hickerson, H. Thomas and Lippincott, Joan and Crema, Leonora},
+  year={2022},
+  publisher={Association of College and Research Libraries}
+}
+```

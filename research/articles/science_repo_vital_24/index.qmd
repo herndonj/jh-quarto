@@ -1,0 +1,117 @@
+---
+title: "Institutional data repositories are vital"
+date: 2024-09-12
+author:
+  - name: Jen Darragh
+    url: 
+    orcid: 0000-0002-8843-5089
+    affiliation: 
+  - name: Mikala Narlock
+    url: 
+    orcid: 0000-0002-2730-7542
+    affiliation: Indiana University
+  - name: Halle Burns
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Peter A. Cerda
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Wind Cowles
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Leslie Delserone
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Seth Erickson
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Heidi Imker
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Lisa R. Johnston
+    url: 
+    orcid: 0000-0001-6908-9240
+    affiliation: University of Wisconsin
+  - name: Sherry Lake
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Michael Lenard
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Alicia Hofelich Mohr
+    url: 
+    orcid: 0000-0002-7644-4105
+    affiliation: University of Minnesota
+  - name: Jennifer Moore
+    url: 
+    orcid: 0000-0001-6628-6820
+    affiliation: Washington University in St. Louis
+  - name: Jonathan Peters
+    url: 
+    orcid: 0000-0002-0853-5814
+    affiliation: Virginia Tech
+  - name: Brandie Pullen
+    url: 
+    orcid: 
+    affiliation: 
+  - name: Shawna Taylor
+    url: 
+    orcid: 0000-0002-9842-7867
+    affiliation: Johns Hopkins University
+  - name: Briana Wham
+    url: 
+    orcid: 
+    affiliation: 
+categories: 
+  - Open science
+  - Repositories
+  - Data management
+pub-info:
+  reference: >-
+    Jen Darragh, Mikala Narlock, Halle Burns, Peter A. Cerda, Wind Cowles, Leslie Delserone, Seth Erickson, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Heidi Imker, Lisa R. Johnston, Sherry Lake, Michael Lenard, Alicia Hofelich Mohr, Jennifer Moore, Jonathan Peters, Brandie Pullen, Shawna Taylor, and Briana Wham, "Institutional data repositories are vital," <em>Science</em> 385, no. 6714 (2024): 1151, doi: <a href="https://doi.org/10.1126/science.ads5830"><code>10.1126/science.ads5830</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1126/science.ads5830
+      icon: fa-solid fa-scroll
+    - name: Preprint
+      url: https://hdl.handle.net/11299/265639
+      icon: fa-solid fa-file-lines
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1126/science.ads5830
+      icon: ai ai-zotero
+doi: 10.1126/science.ads5830
+---
+
+## Abstract
+
+Institutional repositories play a central role in the long-term stewardship of well described research data. Scientific institutions, including journals and government agencies, should adopt policies that recognize that institutional repositories are a suitable solution for data sharing, access, and preservation.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1126/science.ads5830">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@article{darragh2024institutional,
+  title={Institutional data repositories are vital},
+  author={Darragh, Jen and Narlock, Mikala and Burns, Halle and Cerda, Peter A. and Cowles, Wind and Delserone, Leslie and Erickson, Seth and Herndon, Joel and Imker, Heidi and Johnston, Lisa R. and Lake, Sherry and Lenard, Michael and Mohr, Alicia Hofelich and Moore, Jennifer and Peters, Jonathan and Pullen, Brandie and Taylor, Shawna and Wham, Briana},
+  journal={Science},
+  volume={385},
+  number={6714},
+  pages={1151},
+  year={2024},
+  doi={10.1126/science.ads5830}
+}
+```

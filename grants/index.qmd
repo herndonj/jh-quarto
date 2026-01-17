@@ -1,0 +1,11 @@
+---
+title: "Grants and Projects"
+format: html
+listing:
+  contents:
+    - "*.qmd" 
+  type: default
+  sort: filename desc
+  categories: true
+---
+

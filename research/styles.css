@@ -1,0 +1,45 @@
+.publication-item {
+  margin-bottom: 2em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.authors {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+
+.categories {
+  margin: 0.5em 0;
+}
+
+.category-tag {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  font-size: 0.85em;
+  text-decoration: none;
+  color: #333;
+}
+
+.category-tag:hover {
+  background-color: #e0e0e0;
+}
+
+.publication-links {
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0 0 0;
+}
+
+.publication-links li {
+  display: inline;
+  margin-right: 1em;
+}
+
+.publication-links li:before {
+  content: "+ ";
+}

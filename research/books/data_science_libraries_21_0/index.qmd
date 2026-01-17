@@ -1,0 +1,46 @@
+---
+title: "Data Science in the Library"
+date: 2022-01-01
+author:
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+categories: 
+  - Data science
+  - Library services
+  - Research instruction
+pub-info:
+  reference: >-
+    <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, ed., 
+    <em>Data Science in the Library: Tools and Strategies for Supporting Data-Driven 
+    Research and Instruction</em> (London: Facet Publishing, 2022)
+  links:
+    - name: Publisher website
+      url: https://www.facetpublishing.co.uk/page/detail/data-science-in-the-library/?k=9781783304592
+      icon: fa-solid fa-book
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=isbn&q=9781783304592
+      icon: ai ai-zotero
+---
+
+## About the Book
+
+Data Science in the Library: Tools and Strategies for Supporting Data-Driven Research and Instruction brings together an international group of librarians and faculty to consider the opportunities afforded by data science for research libraries. Using practical examples, each chapter focuses on data science instruction, reproducible research, establishing data science services and key data science partnerships.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=isbn&q=9781783304592">{{< iconify ai:zotero >}}&emsp;Add to Zotero {{< iconify fa6-solid:arrow-up-right-from-square >}}</a>
+</p>
+```bibtex
+@book{herndon2022data,
+  title={Data Science in the Library: Tools and Strategies for Supporting Data-Driven Research and Instruction},
+  editor={Herndon, Joel},
+  year={2022},
+  publisher={Facet Publishing},
+  address={London},
+  isbn={9781783304592}
+}
+```
+---

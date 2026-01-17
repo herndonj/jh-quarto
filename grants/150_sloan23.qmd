@@ -1,0 +1,15 @@
+---
+title: "Models for Sustainable and Inclusive Data Science Consulting and Collaboration in Higher Education"
+format: html
+categories:
+ - data science
+ - Alfred P. Sloan Foundation
+
+---
+
+::: {.column-margin}
+![Alfred P. Sloan Foundation](img/sloan.jpg){width=200px}
+:::
+
+I represented Duke Libraries in this nine month project designed to explore ["the details, potential strategies, benefits, and barriers to creating a sustainable data science consulting service within an academic environment"](https://datascienceacademy.ncsu.edu/data-science-consulting/ds-consulting-highed-workshop/). The project brought together a diverse community of faculty, staff, and students focused on improving academic data science services with a special focus on inclusivity, outreach, and sustainability. I enjoyed working with a multi-institutional team on a [publication](10.1002/sta4.644) that represents our efforts on this Sloan funded workshop.
+

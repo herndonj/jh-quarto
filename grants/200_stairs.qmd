@@ -1,0 +1,19 @@
+---
+title: "Summit for Academic Institutional Readiness in Data Sharing"
+subtitle: "STAIRS 2023-2024"
+format: html
+categories:
+ - research data management
+ - NIH
+
+---
+
+::: {.column-margin}
+![RADS](img/stairs.webp){width=200px}
+:::
+
+I served on the planning committee for the 2024 NIH funded STAIRS summit hosted
+at the University of Minnesota and participated in a follow-up webinar a year 
+later to discuss institutional progress. As noted in the NIH summary of STAIRS:
+
+>The STAIRS summit brought together data service providers, institutional repository (IR) managers, data curation professionals and other key stakeholders from across universities who support managing and sharing research data. We used the summit to build up our communities of practice for institutionally based research data services and repositories in academic libraries, identifying common areas of need and exploring ways to strengthen connections among institutions. - [Goals of the STAIRS Summit](https://datascience.nih.gov/news/summit-academic-institutional-readiness-data-sharing-stairs)

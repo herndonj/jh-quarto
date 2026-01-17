@@ -1,0 +1,66 @@
+---
+title: "Developing partnerships for academic data science consulting and collaboration units"
+date: 2024-01-11
+author:
+  - name: Marianne Heubner
+    url: 
+    orcid: 0000-0002-9694-9231
+    affiliation: Michigan State University
+  - name: Laura Bond
+    url: 
+    orcid: 0000-0003-4975-1019
+    affiliation: Boise State University
+  - name: Felesia Stukes
+    url: 
+    orcid: 
+    affiliation: Johnson C. Smith University
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: David J. Edwards
+    url: 
+    orcid: 
+    affiliation: Virginia Commonwealth University
+  - name: Gina-Maria Pomann
+    url: 
+    orcid: 0000-0002-6324-3953
+    affiliation: Duke University
+categories: 
+  - Data science
+  - Consulting
+  - Partnerships
+pub-info:
+  reference: >-
+    Marianne Heubner, Laura Bond, Felesia Stukes, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, David J. Edwards, and Gina-Maria Pomann, "Developing partnerships for academic data science consulting and collaboration units," <em>Stat</em> 13, no. 1 (2024): e644, doi: <a href="https://doi.org/10.1002/sta4.644"><code>10.1002/sta4.644</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1002/sta4.644
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1002/sta4.644
+      icon: ai ai-zotero
+doi: 10.1002/sta4.644
+---
+
+## Abstract
+
+Data science consulting and collaboration units (DSUs) are core infrastructure for research at universities. Activities span data management, study design, data analysis, data visualization, predictive modelling, preparing reports, manuscript writing and advising on statistical methods and may include an experiential or teaching component. Partnerships are needed for a thriving DSU as an active part of the larger university network. Guidance for identifying, developing and managing successful partnerships for DSUs can be summarized in six rules: (1) align with institutional strategic plans, (2) cultivate partnerships that fit your mission, (3) ensure sustainability and prepare for growth, (4) define clear expectations in a partnership agreement, (5) communicate and (6) expect the unexpected. While these rules are not exhaustive, they are derived from experiences in a diverse set of DSUs, which vary by administrative home, mission, staffing and funding model. As examples in this paper illustrate, these rules can be adapted to different organizational models for DSUs. Clear expectations in partnership agreements are essential for high quality and consistent collaborations and address core activities, duration, staffing, cost and evaluation. A DSU is an organizational asset that should involve thoughtful investment if the institution is to gain real value.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1002/sta4.644">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@article{heubner2024developing,
+  title={Developing partnerships for academic data science consulting and collaboration units},
+  author={Heubner, Marianne and Bond, Laura and Stukes, Felesia and Herndon, Joel and Edwards, David J. and Pomann, Gina-Maria},
+  journal={Stat},
+  volume={13},
+  number={1},
+  pages={e644},
+  year={2024},
+  doi={10.1002/sta4.644}
+}
+```

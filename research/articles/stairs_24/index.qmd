@@ -1,0 +1,67 @@
+---
+title: "Institutionally based research data services: Current developments and future direction"
+date: 2024-10-28
+author:
+  - name: Mikala Narlock
+    url: 
+    orcid: 0000-0002-2730-7542
+    affiliation: Indiana University
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Wind Cowles
+    url: 
+    orcid: 0000-0001-9489-0750
+    affiliation: Princeton University
+  - name: Leslie Delserone
+    url: 
+    orcid: 0000-0003-3864-1279
+    affiliation: University of Nebraska
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Jonathan Petters
+    url: 
+    orcid: 0000-0002-0853-5814
+    affiliation: Virginia Tech
+categories: 
+  - Data services
+  - Research data management
+  - Data sharing
+pub-info:
+  reference: >-
+    Mikala Narlock, Jake Carlson, Wind Cowles, Leslie Delserone, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Wendy Kozlowski, and Jonathan Petters, "Institutionally based research data services: Current developments and future direction," Data Curation Network (2024), doi: <a href="https://doi.org/10.24926/2024.70098"><code>10.24926/2024.70098</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.24926/2024.70098
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.24926/2024.70098
+      icon: ai ai-zotero
+doi: 10.24926/2024.70098
+---
+
+## Abstract
+
+The Summit for Academic Institutional Readiness in Data Sharing (STAIRS) was a multi-phased project that brought together a diverse group of representatives from academic institutions across the United States who support research data sharing efforts. Building off preliminary assessment work and a virtual learning series, this was a unique chance to discuss the opportunities and challenges in supporting researchers' data sharing needs within and across institutions. This report captures the details of the project, including the preliminary assessment work as well as the summit. Following a description of the broad themes and overarching takeaways from this multi-phased effort, we conclude with next steps and future directions for the academic data services community.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.24926/2024.70098">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@report{narlock2024institutionally,
+  title={Institutionally based research data services: Current developments and future direction},
+  author={Narlock, Mikala and Carlson, Jake and Cowles, Wind and Delserone, Leslie and Herndon, Joel and Kozlowski, Wendy and Petters, Jonathan},
+  year={2024},
+  institution={Data Curation Network},
+  doi={10.24926/2024.70098}
+}
+```

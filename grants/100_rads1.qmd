@@ -1,0 +1,14 @@
+---
+title: "Realities of Academic Data Sharing (RADS 1) Project"
+subtitle: "August 2021 - October 2023"
+format: html
+categories:
+ - research data management
+ - NSF
+---
+
+::: {.column-margin}
+![nsf](img/nsf.jpg){width=200px}
+:::
+
+In 2021 the Association of Research Libraries and six academic institutions involved in the Data Curation Network (DCN) were awarded a [US National Science Foundation (NSF) EAGER grant (#2135874)](https://www.arl.org/research-data/rads-initiative-phase-1/) to conduct research, develop models, and collect costing information for public access to research data across five disciplinary areas: environmental science, materials science, psychology, biomedical sciences, and physics. 

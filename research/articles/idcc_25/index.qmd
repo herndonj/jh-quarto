@@ -1,0 +1,72 @@
+---
+title: "Traveling on the same road while navigating different terrain: Institutional data services and repositories across the US"
+date: 2025-05-13
+author:
+  - name: Mikala Narlock
+    url: 
+    orcid: 0000-0002-2730-7542
+    affiliation: Indiana University
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Wind Cowles
+    url: 
+    orcid: 0000-0001-9489-0750
+    affiliation: Princeton University
+  - name: Leslie Delserone
+    url: 
+    orcid: 0000-0003-3864-1279
+    affiliation: University of Nebraska
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Jonathan Petters
+    url: 
+    orcid: 0000-0002-0853-5814
+    affiliation: Virginia Tech
+categories: 
+  - Data services
+  - Data repositories
+  - Research data management
+pub-info:
+  reference: >-
+    Mikala Narlock, Jake Carlson, Wind Cowles, Leslie Delserone, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Wendy Kozlowski, and Jonathan Petters, "Traveling on the same road while navigating different terrain: Institutional data services and repositories across the US," <em>International Journal of Digital Curation</em> 19, no. 1 (2025), doi: <a href="https://doi.org/10.2218/ijdc.v19i1.1060"><code>10.2218/ijdc.v19i1.1060</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.2218/ijdc.v19i1.1060
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: https://ijdc.net/index.php/ijdc/article/view/1060/736
+      icon: fa-solid fa-file-pdf
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v19i1.1060
+      icon: ai ai-zotero
+doi: 10.2218/ijdc.v19i1.1060
+---
+
+## Abstract
+
+This paper describes the Repository Readiness initiative and subsequent Summit for Academic Institutional Readiness in Data Sharing (STAIRS). These efforts examined the current state of institutional research data services and repositories at US academic institutions. Using federal memos and directives published in 2022 as a foundation, members of the Data Curation Network hosted a virtual learning series to identify areas of collaboration across institutions. The themes of this learning series led to STAIRS, which brought representatives from 32 institutions, to discuss the need for and potential benefits of deeper institution-wide engagement and increasing cross-institutional collaborations to support research data sharing efforts. Through discussions at the summit, three key themes emerged: difficulties in scaling services, need for shared resources and training materials, and importance of cross-institutional collaboration. The participant discussions, combined with data from pre- and post-summit surveys, suggest gaps in staffing, resources, and formal policies in data management in institutional settings. The authors conclude with recommendations for funding agencies to support institutional data services through incentives for collaboration, improved communication with program officers, and additional research into data sharing requirements across different institutional types.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v19i1.1060">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@article{narlock2025traveling,
+  title={Traveling on the same road while navigating different terrain: Institutional data services and repositories across the US},
+  author={Narlock, Mikala and Carlson, Jake and Cowles, Wind and Delserone, Leslie and Herndon, Joel and Kozlowski, Wendy and Petters, Jonathan},
+  journal={International Journal of Digital Curation},
+  volume={19},
+  number={1},
+  year={2025},
+  doi={10.2218/ijdc.v19i1.1060}
+}
+```

@@ -1,0 +1,76 @@
+---
+title: "Data Curation Network: A Cross-Institutional Staffing Model for Curating Research Data"
+date: 2018-12-26
+author:
+
+  - name: Lisa Johnston
+    url: 
+    orcid: 0000-0001-6908-9240
+    affiliation: University of Wisconsin
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Cynthia Hudson-Vitale
+    url: 
+    orcid: 0000-0001-5581-5678
+    affiliation: Johns Hopkins University
+  - name: Heidi Imker
+    url: 
+    orcid: 0000-0003-4748-7453 
+    affiliation: University of Illinois Urbana-Champaign
+  - name: Wendy Kozlowski
+    url: 
+    orcid: 0000-0001-6539-3798
+    affiliation: Cornell University
+  - name: Robert Olendorf
+    url: 
+    orcid: 0000-0003-3353-5637
+    affiliation: Pennsylvania State University
+  - name: Claire Stewart
+    url: 
+    orcid: 0000-0002-9151-0166
+    affiliation: University of Minnesota
+  - name: Mara Blake
+    url: 
+    orcid: 0000-0003-2888-8024
+    affiliation: North Carolina State University
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Tim McGeary
+    url: 
+    orcid: 
+    affiliation: University of Rochester
+  - name: Elizabeth Hull
+    url: 
+    orcid: 0000-0002-8661-6265
+    affiliation: 
+categories: 
+  - Data curation
+  - Data Curation Network
+  - Research data management
+pub-info:
+  reference: >-
+    Lisa Johnston, Jake Carlson, Cynthia Hudson-Vitale, Heidi Imker, Wendy Kozlowski, Robert Olendorf, Claire Stewart, Mara Blake, <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, Tim McGeary, and Elizabeth Hull, "Data Curation Network: A Cross-Institutional Staffing Model for Curating Research Data," <em>International Journal of Digital Curation</em> 13, no. 1 (2018): 125-140, doi: <a href="https://doi.org/10.2218/ijdc.v13i1.616"><code>10.2218/ijdc.v13i1.616</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.2218/ijdc.v13i1.616
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v13i1.616
+      icon: ai ai-zotero
+doi: 10.2218/ijdc.v13i1.616
+---
+
+## Abstract
+
+Funders increasingly require that data sets arising from sponsored research must be preserved and shared, and many publishers either require or encourage that data sets accompanying articles are made available through a publicly accessible repository. Additionally, many researchers wish to make their data available regardless of funder requirements both to enhance their impact and also to propel the concept of open science. However, the data curation activities that support these preservation and sharing activities are costly, requiring advanced curation practices, training, specific technical competencies, and relevant subject expertise. Few colleges or universities will be able to hire and sustain all of the data curation expertise locally that its researchers will require, and even those with the means to do more will benefit from a collective approach that will allow them to supplement at peak times, access specialized capacity when infrequently-curated types arise, and stabilize service levels to account for local staff transition, such as during turn-over periods. The Data Curation Network (DCN) provides a solution for partners of all sizes to develop or to supplement local curation expertise with the expertise of a resilient, distributed network, and creates a funding stream to both sustain central services and support expansion of distributed expertise over time. This paper presents our next steps for piloting the DCN, scheduled to launch in the spring of 2018 across nine partner institutions. Our implementation plan is based on planning phase research performed from 2016-2017 that monitored the types, disciplines, frequency, and curation needs of data sets passing through the curation services at the six planning phase institutions. Our DCN implementation plan includes a well-coordinated and tiered staffing model, a technology-agnostic submission workflow, standardized curation procedures, and a sustainability approach that will allow the DCN to prevail beyond the grant-supported implementation phase as a curation-as-service model.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.2218/ijdc.v13i1.616">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex

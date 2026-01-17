@@ -1,0 +1,59 @@
+---
+title: "Leveraging Data Communities to Advance Open Science"
+date: 2022-08-09
+author:
+  - name: Dylan Ruediger
+    url: 
+    orcid: 
+    affiliation: Ithaka S+R
+  - name: Ruby MacDougall
+    url: 
+    orcid: 
+    affiliation: Ithaka S+R
+  - name: Danielle Cooper
+    url: 
+    orcid: 
+    affiliation: Ithaka S+R
+  - name: Jake Carlson
+    url: 
+    orcid: 0000-0003-2733-0969
+    affiliation: University at Buffalo
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+categories: 
+  - Data communities
+  - Open science
+  - Data sharing
+pub-info:
+  reference: >-
+    Dylan Ruediger, Ruby MacDougall, Danielle Cooper, Jake Carlson, and <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong>, "Leveraging Data Communities to Advance Open Science," Ithaka S+R (2022), doi: <a href="https://doi.org/10.18665/sr.317145"><code>10.18665/sr.317145</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.18665/sr.317145
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.18665/sr.317145
+      icon: ai ai-zotero
+doi: 10.18665/sr.317145
+---
+
+## Abstract
+
+In collaboration with Ithaka S+R, DCN Members Jake Carlson, Joel Herndon, and Lisa Johnston collaborated on a grant from the National Science Foundation to explore the development of infrastructures for data sharing within data communities. The project, announced in May 2021, brought together scientists and information technology professionals for focused discussions about initiating and sustaining data communities.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.18665/sr.317145">{{< iconify academicons:zotero >}}&emsp;Add to Zotero {{< iconify fa7-solid:square-arrow-up-right >}}</a>
+</p>
+```bibtex
+@report{ruediger2022leveraging,
+  title={Leveraging Data Communities to Advance Open Science},
+  author={Ruediger, Dylan and MacDougall, Ruby and Cooper, Danielle and Carlson, Jake and Herndon, Joel},
+  year={2022},
+  institution={Ithaka S+R},
+  doi={10.18665/sr.317145}
+}
+```

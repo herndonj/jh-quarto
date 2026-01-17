@@ -1,0 +1,44 @@
+---
+title: "Data Sharing Policies in Social Sciences Academic Journals: Evolving Expectations of Data Sharing as a Form of Scholarly Communication"
+date: 2016-07-01
+author:
+  - name: Joel Herndon
+    url: https://joelherndon.info
+    orcid: 0000-0001-9995-9040
+    affiliation: Duke University
+  - name: Robert O'Reilly
+    url: 
+    orcid: 
+    affiliation: Emory University
+categories: 
+  - Data sharing
+  - Scholarly communication
+  - Journal policies
+pub-info:
+  reference: >-
+    <strong><a href="https://joelherndon.info/">Joel Herndon</a></strong> and Robert O'Reilly, "Data Sharing Policies in Social Sciences Academic Journals: Evolving Expectations of Data Sharing as a Form of Scholarly Communication," in <em>Databrarianship: The Academic Data Librarian in Theory and Practice</em>, ed. Lynda Kellam and Kristi Thompson (Association of College and Research Libraries, 2016)
+  links:
+    - name: PDF
+      url: https://dukespace.lib.duke.edu/dspace/handle/10161/12792
+      icon: fa-solid fa-file-pdf
+    - name: Data
+      url: https://doi.org/10.15139/S3/12157
+      icon: fa-solid fa-table
+doi: https://dukespace.lib.duke.edu/dspace/handle/10161/12792
+---
+
+## Abstract
+
+Discussion about data sharing and data availability are widespread in the public and private sectors and within academia. For academic researchers, these discussions often focus on how data sharing and transparency can increase the rigor and credibility of scholarship. In response to these discussions, many academics have argued that academic journals should adopt sharing/replication policies to address these concerns. In this chapter, we analyze whether academic journals in the social sciences have been adopting such policies over time and whether such adoption varies by field. Our conclusion is that while journals are indeed adopting such policies, they are doing so in an incomplete and varied manner. Moreover, the adoption of such policies and the debates that surround them are matters with which libraries should engage themselves, as doing so has the potential to strengthen connections between libraries and researchers with regard to data services and support.
+
+## Citation
+```bibtex
+@incollection{herndon2016data,
+  title={Data Sharing Policies in Social Sciences Academic Journals: Evolving Expectations of Data Sharing as a Form of Scholarly Communication},
+  author={Herndon, Joel and O'Reilly, Robert},
+  booktitle={Databrarianship: The Academic Data Librarian in Theory and Practice},
+  editor={Kellam, Lynda and Thompson, Kristi},
+  year={2016},
+  publisher={Association of College and Research Libraries}
+}
+```

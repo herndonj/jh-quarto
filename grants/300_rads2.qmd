@@ -1,0 +1,30 @@
+---
+title: "Realities of Academic Data Sharing (RADS2) Project"
+subtitle: "August 2023 - July 2026"
+format: html
+categories:
+ - research data management
+ - IMLS
+
+---
+
+::: {.column-margin}
+![RADS](img/imls_logo_2c.jpg){width=200px}
+:::
+The [Realities of Academic Data Sharing (RADS 2)](https://open-data.science/) project 
+explores the nature and cost of research data management efforts across twelve 
+academic institions. 
+
+The RADS project has three distinct research streams.
+
+The first research stream uses a guided interview approach for four NIH 
+researchers (at Duke, University of Minnesota, Washington University in St. Louis, and University at Buffalo), consisting of eight meetings per institution over a two year period. Data from these guided interviews provide insight to data workflows
+and cost during an active NIH grant.
+
+The second (retrospective) research stream consists of an online survey of researchers funded between 2018 and 2024 from the following federal funders: the Department of Energy (DOE), the National Aeronautics and Space Administration (NASA), the National Endowment for the Humanities (NEH), the National Institutes of Health (NIH), the National Science Foundation (NSF), and 
+the United States Department of Agriculture (USDA). All researcher names will be identified by using API pulls from the public funder award databases. (The participant pool will exclude any researcher who responded to the Phase One RADS survey in 2022.) This phase of the study seeks to understand research data 
+management practices and costs from a broad range of completed research projects.
+
+The third research stream uses a guided interview approach to collect data from administrators at each institution whose unit or department supports data sharing activities. Approximately 8 to 12 administrators will be interviewed at each institution representing a diverse set of campus stakeholders.
+
+This project is funded by the US Institute of Museum and Library Services (IMLS). 

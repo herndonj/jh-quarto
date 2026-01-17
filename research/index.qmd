@@ -1,0 +1,30 @@
+---
+title: "Research"
+listing:
+  - id: books
+    contents: "books/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+
+My research focuses on data science in libraries, research data management, data curation, and institutional data services. {{< ai blank-just-to-add-ai-dependency-to-this-page >}}
+
+## Books
+
+:::{#books}
+:::
+
+## Journal articles
+
+:::{#articles}
+:::
