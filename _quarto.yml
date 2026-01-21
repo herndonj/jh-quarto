@@ -38,4 +38,5 @@ format:
     toc: false
 
 
-
+execute:
+  freeze: auto
